@@ -43,7 +43,7 @@ public class Calculator {
                     result=num1/num2;
                     break;
                 default:
-                    System.out.print("ugyldig oprator (regne tegn)");
+                    System.out.print("ugyldig operator (regne tegn)");
                     input.nextLine();
                     continue;
             } //switch end
